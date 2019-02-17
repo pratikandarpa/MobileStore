@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/colorPrimary"
+    android:gravity="center"
+    android:minHeight="?attr/actionBarSize"
+    app:theme="@style/AppTheme2"
+    app:title="Mobile Store">
+
+    <ImageView
+        android:layout_width="25sp"
+        android:layout_height="25sp"
+        android:layout_marginLeft="255dp"
+        android:layout_marginRight="15dp"
+        android:src="@drawable/shoppingcart" />
+
+</android.support.v7.widget.Toolbar>

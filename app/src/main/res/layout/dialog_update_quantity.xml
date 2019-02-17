@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:padding="5dp"
+    android:orientation="horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="7sp"
+        android:gravity="center"
+        android:text="Quntity: "
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/decrease2"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center"
+        android:background="@drawable/roundradiustwo"
+        android:gravity="center"
+        android:text="-"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/integer_number2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="7sp"
+        android:layout_marginRight="7sp"
+        android:gravity="center"
+        android:text="1"
+        android:textSize="20dp" />
+
+    <Button
+        android:id="@+id/increase2"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center"
+        android:background="@drawable/roundradiustwo"
+        android:gravity="center"
+        android:text="+"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/newupdate"
+        android:layout_width="70dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp"
+        android:background="@drawable/roundradiustwo"
+        android:gravity="center"
+        android:text="Update"
+        android:textColor="#fff" />
+</LinearLayout>

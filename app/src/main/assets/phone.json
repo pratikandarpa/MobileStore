@@ -1,0 +1,268 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Oneplus 6t",
+      "image_file": "drawable/oneplusstimgs.png",
+      "fullimage": [
+        {
+          "smallthum": "oneplusstimgs",
+          "large": "oneplusstimgl"
+        }
+      ],
+      "colorcode": [
+        {
+          "colorb": "#000000",
+          "colorg": "#CCCCCC",
+          "colorgold": "#FFFFFF"
+        }
+      ],
+      "size": [
+        {
+          "size32": [
+            {
+              "colorblack": "38000",
+              "colorgray": "40000",
+              "colorgold": "41000"
+            }
+          ],
+          "size64": [
+            {
+              "colorblack": "42000",
+              "colorgray": "43000",
+              "colorgold": "44000"
+            }
+          ],
+          "size128": [
+            {
+              "colorblack": "45000",
+              "colorgray": "47000",
+              "colorgold": "48000"
+            }
+          ]
+        }
+      ],
+      "des": "Warranty 1 year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    },
+    {
+      "id": "2",
+      "name": "Moto g5 Plus",
+      "image_file": "2.webp",
+      "fullimage": [
+        {
+          "smallthum": "motos",
+          "large": "motol"
+        }
+      ],
+      "colorcode": [
+        {
+          "colorb": "#000000",
+          "colorg": "#CCCCCC",
+          "colorgold": "#FFFFFF"
+        }
+      ],
+      "size": [
+        {
+          "size32": [
+            {
+              "colorblack": "10000",
+              "colorgray": "10500",
+              "colorgold": "11000"
+            }
+          ],
+          "size64": [
+            {
+              "colorblack": "11500",
+              "colorgray": "12000",
+              "colorgold": "12500"
+            }
+          ],
+          "size128": [
+            {
+              "colorblack": "14000",
+              "colorgray": "16000",
+              "colorgold": "18000"
+            }
+          ]
+        }
+      ],
+      "des": "Warranty one year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    },
+    {
+      "id": "3",
+      "name": "iPhone X",
+      "image_file": "3.webp",
+      "fullimage": [
+        {
+          "smallthum": "iphones",
+          "large": "iphonel"
+        }
+      ],
+      "colorcode": [
+        {
+          "colorb": "#000000",
+          "colorg": "#CCCCCC",
+          "colorgold": "#FFFFFF"
+        }
+      ],
+      "size": [
+        {
+          "size32": [
+            {
+              "colorblack": "70000",
+              "colorgray": "null",
+              "colorgold": "75000"
+            }
+          ],
+          "size64": [
+            {
+              "colorblack": "80000",
+              "colorgray": "null",
+              "colorgold": "83000"
+            }
+          ],
+          "size128": [
+            {
+              "colorblack": "101000",
+              "colorgray": "null",
+              "colorgold": "120000"
+            }
+          ]
+        }
+      ],
+      "des": "Warranty one year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    },
+    {
+      "id": "4",
+      "name": "Mi Note 4",
+      "image_file": "4.webp",
+      "fullimage": [
+        {
+          "smallthum": "mis",
+          "large": "mil"
+        }
+      ],
+      "colorcode": [
+        {
+          "colorb": "#000000",
+          "colorg": "#CCCCCC",
+          "colorgold": "#FFFFFF"
+        }
+      ],
+      "size": [
+        {
+          "size32": [
+            {
+              "colorblack": "5000",
+              "colorgray": "5100",
+              "colorgold": "5300"
+            }
+          ],
+          "size64": [
+            {
+              "colorblack": "6000",
+              "colorgray": "7000",
+              "colorgold": "7700"
+            }
+          ],
+          "size128": [
+            {
+              "colorblack": "8000",
+              "colorgray": "9000",
+              "colorgold": "9999"
+            }
+          ]
+        }
+      ],
+      "des": "Warranty one year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    },
+    {
+      "id": "5",
+      "name": "Pixel 2",
+      "image_file": "5.webp",
+      "fullimage": [
+        {
+          "smallthum": "pixels",
+          "large": "pixell"
+        }
+      ],
+      "colorcode": [
+        {
+          "colorb": "#000000",
+          "colorg": "#CCCCCC",
+          "colorgold": "#FFFFFF"
+        }
+      ],
+      "size": [
+        {
+          "size32": [
+            {
+              "colorblack": "45000",
+              "colorgray": "46000",
+              "colorgold": "47000"
+            }
+          ],
+          "size64": [
+            {
+              "colorblack": "50000",
+              "colorgray": "51000",
+              "colorgold": "52000"
+            }
+          ],
+          "size128": [
+            {
+              "colorblack": "53000",
+              "colorgray": "53500",
+              "colorgold": "54999"
+            }
+          ]
+        }
+      ],
+      "des": "Warranty one year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    },
+    {
+      "id": "6",
+      "name": "Vivo v11",
+      "image_file": "6.webp",
+      "fullimage": [
+        {
+          "smallthum": "vivos",
+          "large": "vivol"
+        }
+      ],
+      "colorcode": [
+        {
+          "colorb": "#000000",
+          "colorg": "#CCCCCC",
+          "colorgold": "#FFFFFF"
+        }
+      ],
+      "size": [
+        {
+          "size32": [
+            {
+              "colorblack": "45100",
+              "colorgray": "46100",
+              "colorgold": "47900"
+            }
+          ],
+          "size64": [
+            {
+              "colorblack": "59999",
+              "colorgray": "51999",
+              "colorgold": "52999"
+            }
+          ],
+          "size128": [
+            {
+              "colorblack": "53999",
+              "colorgray": "53599",
+              "colorgold": "59999"
+            }
+          ]
+        }
+      ],
+      "des": "Warranty one year manufacturer warranty for device and 6 months manufacturer warranty for in-box accessories including batteries from the date of purchase"
+    }
+  ]
+}

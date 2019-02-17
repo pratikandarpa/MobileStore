@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="7dp"
+    android:background="#DAE0E2"
+    android:layout_marginLeft="2dp">
+
+
+    <TextView
+        android:textColor="#000"
+        android:textStyle="bold"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginRight="7sp"
+        android:gravity="center"
+        android:text="Quantity: "
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/decrease"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/roundradiustwo"
+        android:gravity="center"
+        android:text="-"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+    <TextView
+        android:textStyle="bold"
+        android:textColor="#000"
+        android:id="@+id/integer_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginLeft="7sp"
+        android:layout_marginRight="7sp"
+        android:gravity="center"
+        android:text="1"
+        android:textSize="15dp" />
+
+    <Button
+        android:id="@+id/increase"
+        android:layout_width="20dp"
+        android:layout_height="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/roundradiustwo"
+        android:gravity="center"
+        android:text="+"
+        android:textColor="#fff"
+        android:textStyle="bold" />
+
+</LinearLayout>

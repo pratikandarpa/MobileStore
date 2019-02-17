@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Color: "
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/color1"
+            android:layout_width="15sp"
+            android:layout_height="15sp"
+            android:layout_margin="5dp"
+            android:background="@color/colorb" />
+
+        <Button
+            android:id="@+id/color2"
+            android:layout_width="15sp"
+            android:layout_height="15sp"
+            android:layout_margin="5dp"
+            android:background="@color/colorg" />
+
+        <Button
+            android:id="@+id/color3"
+            android:layout_width="15sp"
+            android:layout_height="15sp"
+            android:layout_margin="5dp"
+            android:background="@color/colorgold" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:text="Storage: "
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/size32"
+            android:layout_width="45sp"
+            android:layout_height="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/colorb"
+            android:src="@drawable/pressed"
+            android:text="32gb"
+            android:textColor="#fff"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/size64"
+            android:layout_width="45sp"
+            android:layout_height="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/colorg"
+            android:text="64gb"
+            android:visibility="visible" />
+
+        <Button
+            android:id="@+id/size128"
+            android:layout_width="45sp"
+            android:layout_height="25sp"
+            android:layout_margin="5dp"
+            android:background="@color/colorgold"
+            android:text="128gb"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/q1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="7sp"
+            android:gravity="center"
+            android:text="Quntity: "
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:background="@drawable/roundradiustwo"
+            android:gravity="center"
+            android:text="+"
+            android:textColor="#fff"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/q2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="7sp"
+            android:layout_marginRight="7sp"
+            android:gravity="center"
+            android:text="1"
+            android:textSize="20dp" />
+
+        <Button
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:layout_gravity="center"
+            android:background="@drawable/roundradiustwo"
+            android:gravity="center"
+            android:text="-"
+            android:textColor="#fff"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+</LinearLayout>
